@@ -1,0 +1,6 @@
+C:\Users\Nicolas Junkes\source\repos\DesafioMES\Subtracao\bin\Debug\Subtracao.dll
+C:\Users\Nicolas Junkes\source\repos\DesafioMES\Subtracao\bin\Debug\Subtracao.pdb
+C:\Users\Nicolas Junkes\source\repos\DesafioMES\Subtracao\obj\Debug\Subtracao.csprojAssemblyReference.cache
+C:\Users\Nicolas Junkes\source\repos\DesafioMES\Subtracao\obj\Debug\Subtracao.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Junkes\source\repos\DesafioMES\Subtracao\obj\Debug\Subtracao.dll
+C:\Users\Nicolas Junkes\source\repos\DesafioMES\Subtracao\obj\Debug\Subtracao.pdb

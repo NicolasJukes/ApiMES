@@ -1,0 +1,5 @@
+C:\Users\Nicolas Junkes\source\repos\DesafioMES\Adicao\bin\Debug\Adicao.dll
+C:\Users\Nicolas Junkes\source\repos\DesafioMES\Adicao\bin\Debug\Adicao.pdb
+C:\Users\Nicolas Junkes\source\repos\DesafioMES\Adicao\obj\Debug\Adicao.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Junkes\source\repos\DesafioMES\Adicao\obj\Debug\Adicao.dll
+C:\Users\Nicolas Junkes\source\repos\DesafioMES\Adicao\obj\Debug\Adicao.pdb
