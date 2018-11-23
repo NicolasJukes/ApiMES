@@ -1,0 +1,6 @@
+C:\Users\Nicolas Junkes\source\repos\DesafioMES\Contrato\bin\Debug\Contrato.dll
+C:\Users\Nicolas Junkes\source\repos\DesafioMES\Contrato\bin\Debug\Contrato.pdb
+C:\Users\Nicolas Junkes\source\repos\DesafioMES\Contrato\obj\Debug\Contrato.csprojAssemblyReference.cache
+C:\Users\Nicolas Junkes\source\repos\DesafioMES\Contrato\obj\Debug\Contrato.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Junkes\source\repos\DesafioMES\Contrato\obj\Debug\Contrato.dll
+C:\Users\Nicolas Junkes\source\repos\DesafioMES\Contrato\obj\Debug\Contrato.pdb

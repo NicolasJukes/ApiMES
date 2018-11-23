@@ -2,9 +2,9 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-// As informações gerais sobre um assembly são controladas por
-// conjunto de atributos. Altere estes valores de atributo para modificar as informações
-// associada a um assembly.
+// As informações gerais sobre um assembly são controladas através do seguinte
+// conjunto de atributos a seguir. Altere esses valores de atributo para modificar as informações
+// associadas a um assembly.
 [assembly: AssemblyTitle("Adicao")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
@@ -14,23 +14,22 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
-// Definir ComVisible como false torna os tipos neste assembly invisíveis
-// para componentes COM. Caso precise acessar um tipo neste assembly de
+// Definir ComVisible como falso torna não visíveis os tipos neste assembly
+// para componentes COM. Caso precise acessar um tipo neste assembly a partir de
 // COM, defina o atributo ComVisible como true nesse tipo.
 [assembly: ComVisible(false)]
 
-// O GUID a seguir será destinado à ID de typelib se este projeto for exposto para COM
-[assembly: Guid("2f1886a4-4660-46a8-a571-27ed64f2da1a")]
+// A GUID a seguir será referente à ID do typelib se este projeto for exposto ao COM
+[assembly: Guid("a646b5fe-6853-4947-b132-9bf0d253ae5e")]
 
-// As informações da versão de um assembly consistem nos quatro valores a seguir:
+// As informações de versão de um assembly consistem nos seguintes quatro valores:
 //
 //      Versão Principal
-//      Versão Secundária 
+//      Versão Secundária
 //      Número da Versão
 //      Revisão
 //
-// É possível especificar todos os valores ou usar como padrão os Números de Build e da Revisão
+// É possível especificar todos os valores ou definir como padrão os números de revisão e de versão
 // usando o '*' como mostrado abaixo:
-// [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]

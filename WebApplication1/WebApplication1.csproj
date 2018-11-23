@@ -183,12 +183,12 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\ExpressaoController.cs" />
-    <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\ParametroApiExpressao.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Servicos\VerificarExpressao.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Areas\HelpPage\HelpPage.css" />
@@ -232,7 +232,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
     <Folder Include="Views\Expressao\" />
   </ItemGroup>
   <ItemGroup>
@@ -240,12 +239,12 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Adicao\Adicao.csproj">
-      <Project>{2f1886a4-4660-46a8-a571-27ed64f2da1a}</Project>
+      <Project>{6ed7acc7-89fc-44cf-b69c-71d1e8fe048e}</Project>
       <Name>Adicao</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Subtracao\Subtracao.csproj">
-      <Project>{d3955969-82ea-4d40-9518-8e0890eeb92b}</Project>
-      <Name>Subtracao</Name>
+    <ProjectReference Include="..\Contrato\Contrato.csproj">
+      <Project>{61de3135-eae8-4ce9-94ca-688056ff3753}</Project>
+      <Name>Contrato</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

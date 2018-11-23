@@ -1,25 +1,24 @@
-﻿using System.Web.Mvc;
+﻿using System.Net.Http;
+using System.Web.Http;
+using WebApplication1.Models;
+using WebApplication1.Servicos;
 
 namespace WebApplication1.Controllers
 {
-    public class ExpressaoController : Controller
+    [RoutePrefix("api/expressoes")]
+    public class ExpressaoController : ApiController
     {
-        // GET: Adição
-       [HttpGet]
-        public double Adicao(double valor1, double valor2)
-       {
-            var Adicao = new Adicao.Adicao();
-            return Adicao.Calcular(valor1, valor2);
+        // POST: Adição
+        [HttpPost]
+        [Route("calcularEpressao")]
+        public IHttpActionResult Calculo([FromBody] ParametroApiExpressao parametro)
+        {
+            VerificarExpressao verificarExpressao = new VerificarExpressao();
+            verificarExpressao.CalcularExpressao(parametro);
+            return ;
         }
 
-        // GET: Subtração
-        [HttpGet]
-        public double Subtrair(double valor1, double valor2)
-        {
-            var calcularSubtracao = new Subtracao.Subtracao();
-            return calcularSubtracao.Calcular(valor1, valor2);
-        }
     }
 
-    
+
 }

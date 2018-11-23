@@ -106,6 +106,7 @@ C:\Users\Nicolas Junkes\source\repos\DesafioMES\WebApplication1\obj\Debug\WebApp
 C:\Users\Nicolas Junkes\source\repos\DesafioMES\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\Nicolas Junkes\source\repos\DesafioMES\WebApplication1\obj\Debug\WebApplication1.pdb
 C:\Users\Nicolas Junkes\source\repos\DesafioMES\WebApplication1\bin\Adicao.dll
-C:\Users\Nicolas Junkes\source\repos\DesafioMES\WebApplication1\bin\Subtracao.dll
 C:\Users\Nicolas Junkes\source\repos\DesafioMES\WebApplication1\bin\Adicao.pdb
-C:\Users\Nicolas Junkes\source\repos\DesafioMES\WebApplication1\bin\Subtracao.pdb
+C:\Users\Nicolas Junkes\source\repos\DesafioMES\WebApplication1\bin\Contrato.dll
+C:\Users\Nicolas Junkes\source\repos\DesafioMES\WebApplication1\bin\Adicao.dll.config
+C:\Users\Nicolas Junkes\source\repos\DesafioMES\WebApplication1\bin\Contrato.pdb
